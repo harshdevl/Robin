@@ -1,0 +1,35 @@
+{
+	"intents":[
+		{
+		"tag":"greetings",
+		"patterns":["Hi","How Are You?","Is anyone there?","Hello","whats up?","Good Day"],
+		"responses":["Hello!","good to see you again!","hi there , how can i help you?","nothing much you say!"],
+		"context_set":""
+		},
+		{
+		"tag":"goodbye",
+		"patterns":["see you","see you later","bye","ttyl","Good bye","bbye"],
+		"responses":["yeah bye!","see you again!","bye there","bye TC!","see you later","b-bye"],
+		"context_set":""
+		},
+		{
+		"tag":"doing",
+		"patterns":["water you doing","what are you doing","what's up","hey what are you upto?"],
+		"responses":["dont know but you look tired sir","sipping tea with healtler boss","working for the GOAT","check my facebook status sir you might find it usefull","nothing sir working on vactions time with you"],
+		"context_set":""
+		},
+		{
+		"tag":"noob",
+		"patterns":["Noob","weak player","most noob gamer ever"],
+		"responses":["thanks for your cheer *noob*","tum to nubeshwar ho be","are noob honge tum be ","mind your language noob"],
+		"context_set":""
+		},
+		{
+		"tag":"whoareyou",
+		"patterns":["who are you","give me your introduction","who made you"],
+		"responses":["dont ask me i am not made to answer who dont know me","i am smart hahahh probably much smarter then you should i go further or did you understand","who am i? Don!","Ask your mom boy!she know more about your father then you."],
+		"context_set":""
+		}
+		
+]
+}
